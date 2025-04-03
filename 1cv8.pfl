@@ -284,7 +284,7 @@
 {"N",2},"LoopCollapse",
 {"N",0},"ConditionCollapse",
 {"N",0},"RegionCollapse",
-{"N",1},"RegionsCommentCollapse",
+{"N",2},"RegionsCommentCollapse",
 {"N",2},""},
 {
 {""}
